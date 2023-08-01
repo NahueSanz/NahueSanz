@@ -1,33 +1,9 @@
-🧠 Lenguages and Tools
-JavaScript
-JavaScript
+Hola, soy Nahuel Sanz
+Desarrollador Full Stack
+🌱 Estoy realizando nuevos proyectos para afianzar mis conocimientos como una red social de ayuda al medio ambiente
 
-HTML
-HTML
+☎️ Cómo contactarme nahue.p.sanz@gmail.com
 
-CSS
-CSS
+Languages and Tools:
 
-React
-React
-
-Redux
-Redux
-
-Node
-Node
-
-Express
-Express
-
-Sequelize
-Sequelize
-
-PostgreSQL
-PostgreSQL
-
-Postman
-Postman
-
-GitFlow
-GitFlow
+HTML5: 📝 CSS3: 🎨 JavaScript: 💻 Express: 🚀 Figma: 🎨 Git: 🗄️ Java: ☕ Node.js: 🟢 React: ⚛️ Redux: 🔄 Bootstrap: 🅱️ MySQL: 🐬 PostgreSQL: 🐘
